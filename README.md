@@ -38,7 +38,7 @@ step 1 : Install all the dependencies
 `
 <br>
 `
-step 2 : git clone https://github.com/adithya-subramanian/Multi_Agent_Soft_Actor_Critic.git
+step 2 : git clone this repo
 `
 <br>
 `
