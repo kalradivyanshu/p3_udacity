@@ -14,6 +14,13 @@ A Pytorch Implementation of Multi Agent Soft Actor Critic
 # Technical Dependencies
 
 <ol>
+  <li> Install pip for python:</li>
+  <li>
+    <ol>
+      <li>Download https://bootstrap.pypa.io/get-pip.py on windows/linux/unix</li>
+      <li>run python3 get-pip.py</li>
+    </ol>
+  </li>
   <li> Python 3.6 :
   <li> PyTorch (0.4,CUDA 9.0) : pip3 install torch torchvision</li>
   <li> ML-agents (0.4) : Refer to <a href = "https://github.com/Unity-Technologies/ml-agents/">ml-agents</a> for installation</li>
